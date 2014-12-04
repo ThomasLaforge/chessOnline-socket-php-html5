@@ -1,0 +1,4 @@
+Echec
+Echec et mat
+roc
+timer des deux joueurs
